@@ -1,5 +1,5 @@
   
-Implementation of Language recognizer for set of all strings ending with two symbols of same type.
+/*Implementation of Language recognizer for set of all strings ending with two symbols of same type.*/
 
 #include <stdio.h>
 void main(){
